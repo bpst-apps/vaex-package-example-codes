@@ -26,6 +26,7 @@ Vaex is a python library for lazy `Out-of-Core DataFrames` (similar to Pandas), 
 Using conda:
 
   ```conda install -c conda-forge vaex```
+
 Using pip:
 
   ```pip install --upgrade vaex```
